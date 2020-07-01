@@ -1,0 +1,45 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.nav-login{
+
+    width: 350px;
+    height: 320px;
+    background-color:#DCDCDC;
+    margin-top: 15%;
+}
+.nav-img{
+
+    left: 0;
+    width: 400px;
+    height: 300px;
+    background-color:#DCDCDC;
+    margin-top: 15%;
+}
+
+.login-form{
+    display: inline-flex;
+}
+.img-login{
+    width: 400px;
+    height: 320px;
+    
+}
+.info{
+    margin-right: 160px;
+}
+.alert-login{
+    color: firebrick;
+}
+
+.showfont{
+    color: red;
+}
+.login{
+    text-shadow: -7px -4px 9px rgba(139,149,146,0.38);
+}
+
+.error_user{
+    display: none;
+}
